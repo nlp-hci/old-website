@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="511pt" height="512pt" viewBox="0 0 511 512">
+<g enable-background="new">
+<clipPath id="cp0">
+<path transform="matrix(1,0,0,-1,-161,519)" d="M 0 0 L 960 0 L 960 540 L 0 540 Z "/>
+</clipPath>
+<g clip-path="url(#cp0)">
+<clipPath id="cp1">
+<path transform="matrix(1,0,0,-1,-161,519)" d="M 0 .00001206994 L 959.76 .00001206994 L 959.76 540 L 0 540 Z "/>
+</clipPath>
+<g clip-path="url(#cp1)">
+<path transform="matrix(1,0,0,-1,-161,519)" d="M 0 .00001206994 L 959.76 .00001206994 L 959.76 540 L 0 540 Z " fill="#ffffff"/>
+</g>
+<clipPath id="cp2">
+<path transform="matrix(1,0,0,-1,-161,519)" d="M 0 0 L 960 0 L 960 540 L 0 540 Z "/>
+</clipPath>
+<g clip-path="url(#cp2)">
+<path transform="matrix(1,0,0,-1,-161,519)" d="M 0 .0000140816 L 960 .0000140816 L 960 540 L 0 540 Z " fill="#ffffff"/>
+<path transform="matrix(1,0,0,-1,-161,519)" d="M 161.5172 7.902533 L 671.7155 7.902533 L 671.7155 518.0488 L 161.5172 518.0488 Z " fill="#f5f0e1"/>
+<text fill="#ff6e40" xml:space="preserve" transform="matrix(.24 0 -0 .24 9.038406 750.83999)" font-size="958.3333" font-family="Fulbo" font-weight="bold"><tspan y="-2250" x="0 669.7792 1134.4751">NLP</tspan></text>
+<text fill="#ffc13b" xml:space="preserve" transform="matrix(.24 0 -0 .24 9.038406 1005.24)" font-size="958.3333" font-family="Fulbo" font-weight="bold"><tspan y="-2250" x="0 669.77926 1226.5709">HCI</tspan></text>
+<text fill="#1e3d59" xml:space="preserve" transform="matrix(.24 0 -0 .24 353.7774 864.83999)" font-size="1041.667" font-family="Fulbo" font-weight="bold"><tspan y="-2250" x="0">+</tspan></text>
+</g>
+</g>
+</g>
+</svg>
