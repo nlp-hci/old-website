@@ -1,5 +1,5 @@
 ---
-title: 'Configuration'
+title: "Configuration"
 date: 2019-02-11T19:30:08+10:00
 draft: false
 weight: 4
@@ -47,7 +47,7 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Docs"
+name = "Playbook"
 url = "/docs/"
 weight = 2
 ```

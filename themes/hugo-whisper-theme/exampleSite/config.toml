@@ -23,7 +23,7 @@ summaryLength = 30
     weight = 1
 
 [[menu.main]]
-    name = "Docs"
+    name = "Playbook"
     url = "/docs/"
     weight = 2
 
