@@ -7553,7 +7553,7 @@ p {
     margin: 0;
     padding: 4px 0 4px 0; }
     .docs-menu ul li.active a {
-      color: #ff9573;
+      color: #ffc13b;
       font-weight: 400; }
     .docs-menu ul li a {
       color: #212529; }

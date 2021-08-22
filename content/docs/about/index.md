@@ -1,9 +1,60 @@
 ---
-title: 'Specimen'
+title: "Why Playbook?"
 date: 2019-02-11T19:27:37+10:00
-weight: 5
+weight: 1
 ---
 
+&nbsp;
+
+## Why create this playbook?
+
+There is a lot of research happening at the intersection of NLP and HCI. However, because there are two different communities (ACL and SIGCHI + VIS) working on these problems, the differing viewpoints on similar topics are often not known to each other. We hope that this playbook bridges the gap between the two communities and benefits the larger community by highlighting possible research challenges, finding relevant publications, and identifying other researchers working in the area.
+
+###### Highlight possible research challenges?
+
+People in one community may omit some nuanced research setups that’s proven important in the other field. For example, De-noising crowdsourcing data in NLP and HCI. Further, there might be some research challenges in the NLP community which could benefit from insights from the HCI community, or vice versa?
+
+###### Finding relevant publications?
+
+Often, research communities are isolated, and they may only encounter work in their own community. Here, we can highlight specific publications in both areas which stand as examples.
+
+###### Identifying other researchers working in the area?
+
+Help people in the larger community to find researchers working on similar topics but from different perspectives. For eg. an HCI researcher will approach an interactive interface problem in a different way than an NLP person.
+
+###### How is a research playbook different from a usage playbook?
+
+Previously, there have been several playbooks mostly in AI + HCI, some of which are:
+
+- [People + AI Research - Guidebook](https://pair.withgoogle.com/guidebook)
+- [Guidelines for Human-AI Interaction](https://www.microsoft.com/en-us/research/project/guidelines-for-human-ai-interaction/)
+- [Human AI eXperience Toolkit - Microsoft](https://www.microsoft.com/en-us/haxtoolkit/)
+
+These are usage playbooks i.e. how can AI + HCI systems be designed and developed in the wild. The insights they have collected are from UX researchers, developers along with researchers working in AI.
+
+In the case of the NLP + HCI playbook, we focus more on the research aspects. Our targeted reader is different i.e. we do not care (as much) helping developers understand how they end users would perceive their deployed systems; but rather, how researchers may have overlooked some nuances.
+
+###### How is NLP + HCI different from AI+HCI and why particularly focus on NLP + HCI and not AI + HCI?
+
+Language is a social construct, people communicate with each other using language. A lot of day-to-day applications being used have elements of natural language like writing emails, using search engines, messaging and calling, translation etc. To develop any real-world technology which uses language as a medium of interaction would require efforts from both NLP and HCI researchers.
+
+AI + HCI is a very broad topic whereas NLP + HCI has a common backbone of language, which narrows down a lot of approaches and methods that are used. For example, currently NLP has a common theme of fine-tuned language models whereas AI is very broad from classical AI to modern ML algorithms.
+
+But this does not mean that we are limited - many of the points discussed here can be broadly applicable to other areas like CV + HCI. For example, evaluation of interpretability in NLP -> vision.
+
+&nbsp;
+&nbsp;
+
+## What is included in the playbook?
+
+- Categorization of papers
+- Summary of overall themes and identifying the similarities, differences and key takeaways between them. Introduce a common language between HCI and NLP.
+- Curate existing guidelines, codebooks and highlighting where one is needed.
+- Suggestions/Implications/Strategies for further research in the area
+- How individual areas can benefit from research in the other field (i.e. NLP <- HCI and HCI <- NLP)
+- Concerns with current paradigm of research in the intersection of NLP and HCI
+
+<!--
 # <a name="top"></a>Markdown Test Page
 
 - [Headings](#Headings)
@@ -159,11 +210,11 @@ Ex amet id ex aliquip id do laborum excepteur exercitation elit sint commodo occ
 
 ```js
 function myFunction() {
-  var x = document.getElementById('myDIV');
-  if (x.style.display === 'none') {
-    x.style.display = 'block';
+  var x = document.getElementById("myDIV");
+  if (x.style.display === "none") {
+    x.style.display = "block";
   } else {
-    x.style.display = 'none';
+    x.style.display = "none";
   }
 }
 ```
@@ -184,4 +235,4 @@ Incididunt in culpa cupidatat mollit cillum qui proident sit. In cillum aliquip 
 
 [![Box](https://img.youtube.com/vi/qEuD6v1Y9fg/0.jpg)](https://www.youtube.com/watch?v=qEuD6v1Y9fg)
 
-Reprehenderit non eu quis in ad elit esse qui aute id [incididunt](#!) dolore cillum. Esse laboris consequat dolor anim exercitation tempor aliqua deserunt velit magna laboris. Culpa culpa minim duis amet mollit do quis amet commodo nulla irure.
+Reprehenderit non eu quis in ad elit esse qui aute id [incididunt](#!) dolore cillum. Esse laboris consequat dolor anim exercitation tempor aliqua deserunt velit magna laboris. Culpa culpa minim duis amet mollit do quis amet commodo nulla irure. -->

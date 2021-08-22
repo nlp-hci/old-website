@@ -2,7 +2,13 @@
 title: "Resources"
 date: 2019-02-11T19:27:37+10:00
 weight: 6
+description: Numerous resources, such as lectures, seminars, workshops and courses, have been developed at the intersection of NLP and HCI. We compile them so that researchers may identify pertinent sources while attempting to understand a specific sub-topic.
 ---
+
+Numerous resources, such as lectures, seminars, workshops and courses, have been developed at the intersection of NLP and HCI. We compile them so that researchers may identify pertinent sources while attempting to understand a specific sub-topic.
+
+&nbsp;
+&nbsp;
 
 ## Talks & Podcasts
 
